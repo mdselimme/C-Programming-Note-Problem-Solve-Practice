@@ -2,7 +2,7 @@
 
 
 int main(){
-    printf("if else statement.\n");
+    printf("ternary operator.\n");
     int x , y;
     x = 10;
     y=10;
