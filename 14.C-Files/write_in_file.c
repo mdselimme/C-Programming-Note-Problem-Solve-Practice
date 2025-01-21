@@ -7,6 +7,9 @@ int main () {
 
     fprintf(fptr, "Create And Write file in C programming");
 
+   
+    
+
     fclose(fptr);
 
     return 0;
