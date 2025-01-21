@@ -7,7 +7,7 @@ int main () {
 
     char myText[100];
 
-    fgets(myText, 100, fptr);
+    // fgets(myText, 100, fptr);
 
     // printf("%s", myText);
 
